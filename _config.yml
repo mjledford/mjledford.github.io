@@ -32,8 +32,8 @@ author:
   email            : "mledfor@umd.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "http://arxiv.org/a/ledford_m_1"
+  googlescholar    : "https://scholar.google.com/citations?user=6Q3WDyMAAAAJ&hl=en&authuser=1"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-4851-961X"
   semantic         : # URL
@@ -42,7 +42,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # Username - Update with your username on the siteg
   codepen          : # Username
   dribbble         : # Username
   github           : "mjledford"
